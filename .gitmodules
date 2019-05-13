@@ -1,0 +1,4 @@
+[submodule "archeti/cavavin"]
+	path = archeti/cavavin
+	url = https://gitlab.com/archeti/cavavin.git
+	branch = staging
