@@ -2,3 +2,7 @@
 	path = archeti/cavavin
 	url = git@gitlab.com:archeti/cavavin.git
 	branch = staging
+[submodule "archeti/odoo_addons"]
+	path = archeti/odoo_addons
+	url = git@gitlab.com:archeti/odoo_addons.git
+ 	branch = 7585_12.0_MIG_account_ar_ap_report_extended
