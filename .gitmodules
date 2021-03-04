@@ -2,3 +2,7 @@
 	path = archeti/cavavin
 	url = git@gitlab.com:archeti/cavavin.git
 	branch = staging
+[submodule "archeti/trolec"]
+	path = archeti/trolec
+	url = git@gitlab.com:archeti/trolec.git
+    branch = staging
